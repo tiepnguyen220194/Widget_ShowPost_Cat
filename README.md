@@ -1,4 +1,4 @@
-# Widget_showpost_Category_Custompost
-Widget hiển thị bài viết Theo nhiều cấp Category
-
+# Widget_ShowPost_Cat
 Coppy vào file function.php và thưởng thức .
+
+
