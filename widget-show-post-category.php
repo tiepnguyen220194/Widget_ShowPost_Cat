@@ -155,7 +155,7 @@ class show_post_category extends WP_Widget {
                             </div>
                         </article>
 
-                    <?php endwhile; wp_reset_query(); else: echo ''; endif; ?>
+                    <?php endwhile; wp_reset_postdata(); else: echo ''; endif; ?>
                 </div>
             </div>
         <?php echo $after_widget;
