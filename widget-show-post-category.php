@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Widget hiển thị bài viết category
-Plugin URI: https://www.facebook.com/tj3ungunhj9
+Plugin URI: https://www.facebook.com/
 Description: Thực hành tạo widget hiển thị bài viết category
 Author: Nguyễn Ngọc Tiệp
 Version: 1.0
-Author URI: https://www.facebook.com/tj3ungunhj9
+Author URI: https://www.facebook.com/
 */
 class show_post_category extends WP_Widget {
     function __construct() {
